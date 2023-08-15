@@ -1,0 +1,14 @@
+C:\Users\keega\git_repos\CodeWars_Solutions\Break_camelCase\bin\Debug\net7.0\Break_camelCase.exe
+C:\Users\keega\git_repos\CodeWars_Solutions\Break_camelCase\bin\Debug\net7.0\Break_camelCase.deps.json
+C:\Users\keega\git_repos\CodeWars_Solutions\Break_camelCase\bin\Debug\net7.0\Break_camelCase.runtimeconfig.json
+C:\Users\keega\git_repos\CodeWars_Solutions\Break_camelCase\bin\Debug\net7.0\Break_camelCase.dll
+C:\Users\keega\git_repos\CodeWars_Solutions\Break_camelCase\bin\Debug\net7.0\Break_camelCase.pdb
+C:\Users\keega\git_repos\CodeWars_Solutions\Break_camelCase\obj\Debug\net7.0\Break_camelCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keega\git_repos\CodeWars_Solutions\Break_camelCase\obj\Debug\net7.0\Break_camelCase.AssemblyInfoInputs.cache
+C:\Users\keega\git_repos\CodeWars_Solutions\Break_camelCase\obj\Debug\net7.0\Break_camelCase.AssemblyInfo.cs
+C:\Users\keega\git_repos\CodeWars_Solutions\Break_camelCase\obj\Debug\net7.0\Break_camelCase.csproj.CoreCompileInputs.cache
+C:\Users\keega\git_repos\CodeWars_Solutions\Break_camelCase\obj\Debug\net7.0\Break_camelCase.dll
+C:\Users\keega\git_repos\CodeWars_Solutions\Break_camelCase\obj\Debug\net7.0\refint\Break_camelCase.dll
+C:\Users\keega\git_repos\CodeWars_Solutions\Break_camelCase\obj\Debug\net7.0\Break_camelCase.pdb
+C:\Users\keega\git_repos\CodeWars_Solutions\Break_camelCase\obj\Debug\net7.0\Break_camelCase.genruntimeconfig.cache
+C:\Users\keega\git_repos\CodeWars_Solutions\Break_camelCase\obj\Debug\net7.0\ref\Break_camelCase.dll
